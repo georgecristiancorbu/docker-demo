@@ -7,16 +7,16 @@
     "test": "npm install inherits && mocha"
   },
   "engines": {
-    "node": "^4.6.1"
+    "node": "latest"
   },
   "dependencies": {
-    "express": "^4.14.0",
-    "http-errors": "^1.7.0",
-    "mysql": "^2.10.2"
+    "express": "latest",
+    "http-errors": "latest",
+    "mysql": "latest"
   },
   "devDependencies": {
-    "inherits": "^2.0.3",
-    "mocha": "^5.2.0",
-    "ms": "^2.1.1"
+    "inherits": "latest",
+    "mocha": "latest",
+    "ms": "latest"
   }
 }
